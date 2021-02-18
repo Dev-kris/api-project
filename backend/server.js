@@ -1,5 +1,4 @@
 const http = require("http");
-//import app.js
 const app = require("./app");
 
 // set port for app
